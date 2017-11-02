@@ -1,0 +1,55 @@
+Key Location Subscripts:
+0: Stagnation 
+1: Nozzle Entrance
+t: Nozzle Throat
+2: Nozzle Exit
+atm: Atmosphere
+
+-------------------------
+
+Performance Characteristics for Ideal Expansion: 
+Thrust = 224.809 lbf
+Isp = 254.516 sec
+Nozzle Pressure Ratio (P1/P2) = 21.0427
+-------------------------
+
+Required Flow Rates: 
+Propellant Mass flow rate = 0.40065 kg/s = 0.883281 lbf/s
+Mixture Ratio (O/F) = 2.2 
+Fuel mass flow rate = 0.125203 kg/s
+Oxidizer mass flow rate = 0.275447 kg/s
+-------------------------
+
+Stagnation Conditions: 
+Pressure = 300 Psi
+Temperature = 3375 K
+Density = 1.54793 kg/m^3
+-------------------------
+
+Throat Conditions: 
+Pressure = 167.84 Psi
+Temperature = 3032.35 K
+Density = 0.963876 kg/m^3
+Gas Flow Speed = 1213.23 m/s
+Throat Mach Number = 1 
+-------------------------
+
+Exit Conditions: 
+Pressure = 14.2567 Psi
+Temperature = 1924.75 K
+Density = 0.128988 kg/m^3
+Gas Flow Speed = 2495.94 m/s
+Exit Mach Number = 2.58223 
+-------------------------
+
+Geometery:
+Chamber Diameter = 3.25"
+Throat Diameter = 0.822285"
+Exit Diameter = 1.56715"
+Cylindrical Chamber Length = 5.11356"
+Conical Nozzle Length = 2.09076"
+Contraction Ratio = 15.6215
+Expansion Ratio = 3.63227
+Nozzle Converging Half Angle = 60 deg
+Nozzle Diverging Half Angle = 15 deg
+>> 
